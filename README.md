@@ -35,25 +35,25 @@ By the end of this course, students should be able to:
 | Date     | Topic                            |  Assignments       |
 |----------|----------------------------------|------------------  |
 | <tr><th colspan=3> 👨‍💻 &nbsp;&nbsp;&nbsp; Intro to Software Engineering &nbsp;&nbsp;&nbsp; 👩‍💻 </th></tr> |
-| Aug 21 | Introduction | [**HW0**](HWs/HW0.md) |
-| Aug 23 | Introduction (cont.) | |
-| Aug 25 | [[Workshop] Software Engineering Basics]([https://github.com/CS3704-VT/Course/tree/main/resources/slides](https://docable.cloud/api/share/dcbrown/v/63c9b2bfc2f71672f7c45475)) | HW0 due |
-| Aug 28 | Software Process | [**HW1**](https://canvas.vt.edu/courses/176246/assignments/1900058) |
-| Aug 30 | Software Process (cont.) |  |
-| Sept 1 | [Workshop] Technical Interviews | |
-| Sept 4 | 💼 LABOR DAY 🌄 |  |
+| May 22 | Introduction | [**HW0**](HWs/HW0.md) |
+| May 23 | Introduction (cont.) | |
+| May 24 | [[Workshop] Software Engineering Basics]([https://github.com/CS3704-VT/Course/tree/main/resources/slides](https://docable.cloud/api/share/dcbrown/v/63c9b2bfc2f71672f7c45475)) | HW0 due |
+| May 29 | Software Process | [**HW1**](https://canvas.vt.edu/courses/176246/assignments/1900058) |
+| May 30 | Software Process (cont.) |  |
+| May 31 | [Workshop] Technical Interviews | |
+| Jun 5 | 💼 LABOR DAY 🌄 |  |
 | <tr><th colspan=3> 📝 &nbsp;&nbsp;&nbsp; Requirements &nbsp;&nbsp;&nbsp; 📖 </th></tr> |
-| Sept 6 | Requirements Overview, Group Project Requirements | [**PM0**](https://canvas.vt.edu/courses/176246/quizzes/478970) |
-| Sept 8 | [Discussion] Software Engineers | HW1 due |
-| Sept 11 | Requirements Analysis | PM0 due, [**PM1**](./Project/Process.md) |
-| Sept 13 | Requirements Analysis (cont.) |  |
-| Sept 15 | [Workshop] Requirements | |
-| Sept 18 | Requirements Specification | |
-| Sept 20 | Requirements Engineering | |
-| Sept 22 | Project Workday | PM1 due |
-| Sept 25 | ⚡ Talks | **HW2** |
-| Sept 27 | ⚡ Talks | |
-| Sept 29 | ⚡ Talks | |
+| Jun 6 | Requirements Overview, Group Project Requirements | [**PM0**](https://canvas.vt.edu/courses/176246/quizzes/478970) |
+| Jun 7 | [Discussion] Software Engineers | HW1 due |
+| Jun 12 | Requirements Analysis | PM0 due, [**PM1**](./Project/Process.md) |
+| Jun 13 | Requirements Analysis (cont.) |  |
+| Jun 14 | [Workshop] Requirements | |
+| Jun 19 | Requirements Specification | |
+| Jun 20 | Requirements Engineering | |
+| Jun 21 | Project Workday | PM1 due |
+| Jun 26 | ⚡ Talks | **HW2** |
+| Jun 27 | ⚡ Talks | |
+| Jun 28 | ⚡ Talks | |
 | Oct 2  | Project Management | **PM2** |
 | Oct 4  | Guest Lecture  | |
 | Oct 6  | 🍂 FALL BREAK 🌄 |  |
